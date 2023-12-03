@@ -1,0 +1,97 @@
+body {
+    text-align:center;
+    font-size: 10px;
+}
+
+
+.container {
+    width: auto;
+    margin: 10px auto 0;
+
+}
+
+.header-bar {
+    width: 1000px;
+
+}
+
+.search-bar {
+    margin: auto;
+    padding: 10px;
+    width: 100%;
+    float: left;
+    box-sizing: border-box; /* Kutu modelini düzeltmek için */
+    
+
+}
+
+.margin-padding-zero {
+    margin: 0px;
+    padding: 0px;
+
+}
+ 
+.search-form {
+    margin:0px; 
+    padding:0px;
+    text-align:center;
+}
+
+.search-text {
+    margin: 0;
+}
+
+.content-container {
+
+    margin: auto;
+    padding: auto;
+    width: 100%;
+
+
+
+}
+
+.content {
+    width: calc(33.33% - 2px);;
+    float: left;
+    padding: 20px 0;
+    margin: 1px;
+    height: 50px;
+   
+}
+
+
+.footer-bar {
+    margin:0px; 
+    padding:0px;
+    text-align:center;
+    width: 100%;
+    
+}
+
+
+
+
+.clearfix {
+    clear: both;
+}
+
+.bg-gray {
+    background-color: rgb(238, 236, 236);
+}
+
+
+.bg-blue {
+    background-color: blue;
+}
+
+
+
+
+
+
+.bg-green {
+    background-color: rgb(126,229,218);
+}
+
+
